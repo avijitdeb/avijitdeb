@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avijit</h1>
 <h3 align="center">Technology Architect | Full Stack Developer & Freelancer</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">I am ❤️ passionate ❤️ about:</h3>
 <p align="left">
 </p>
 
